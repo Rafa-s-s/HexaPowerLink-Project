@@ -22,10 +22,12 @@ HexaPowerLink integrates multiple renewable energy technologies to create a flex
 For more technical details, diagrams, and reports, visit the [docs folder](./docs).
 
 ## Visuals
+<img src="https://github.com/user-attachments/assets/30bd82ec-80ad-467e-ae8d-a36cdcabf1e5" alt="descrição" width="500"/>
+<img src="https://github.com/user-attachments/assets/5ade7ba0-45cc-434e-a425-dd0fd3f59913" alt="descrição" width="500"/>
+
 
 <p align="center">
-  <img src="path-to-your-image1.jpg" alt="Prototype Design" width="400" style="margin-right: 15px;"/>
-  <img src="path-to-your-image2.jpg" alt="Energy Capture Process" width="400" style="margin-left: 15px;"/>
+  <img src="https://github.com/user-attachments/assets/1aaee2f0-c778-470f-9e4b-6943f91f0d69" alt="descrição" width="700"/>
 </p>
 
 ## License
@@ -34,5 +36,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub](https://github.com/yourprofile)
+- Email: raphael.soaresdossantos@yahoo.com
+- LinkedIn: [Raphael Soares S](https://www.linkedin.com/in/raphael-s-s/)
+- GitHub: [Rafa-s-s](https://github.com/Rafa-s-s)
