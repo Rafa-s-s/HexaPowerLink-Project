@@ -22,13 +22,11 @@ HexaPowerLink integrates multiple renewable energy technologies to create a flex
 For more technical details, diagrams, and reports, visit the [docs folder](./docs).
 
 ## Visuals
-<img src="https://github.com/user-attachments/assets/30bd82ec-80ad-467e-ae8d-a36cdcabf1e5" alt="descrição" width="500"/>
-<img src="https://github.com/user-attachments/assets/5ade7ba0-45cc-434e-a425-dd0fd3f59913" alt="descrição" width="500"/>
 
+![Blueprint Rede de Exagonos modulares](https://github.com/user-attachments/assets/72ce3674-6cdc-4ae0-8dc0-fcf9bda2fef0)
+![Demonstraçao de funcionalidade 1 e 2](https://github.com/user-attachments/assets/61fd145a-b18a-4987-9beb-2103056047fb)
+![Demonstraçao de funcionalidade 3](https://github.com/user-attachments/assets/ace3d9f3-f476-420a-8ea4-6526bb3b371e)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1aaee2f0-c778-470f-9e4b-6943f91f0d69" alt="descrição" width="700"/>
-</p>
 
 ## License
 
