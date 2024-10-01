@@ -24,9 +24,6 @@ For more technical details, diagrams, and reports, visit the [docs folder](./doc
 ## Visuals
 
 ![Blueprint Rede de Exagonos modulares](https://github.com/user-attachments/assets/72ce3674-6cdc-4ae0-8dc0-fcf9bda2fef0)
-![Demonstraçao de funcionalidade 1 e 2](https://github.com/user-attachments/assets/61fd145a-b18a-4987-9beb-2103056047fb)
-![Demonstraçao de funcionalidade 3](https://github.com/user-attachments/assets/ace3d9f3-f476-420a-8ea4-6526bb3b371e)
-
 
 ## License
 
