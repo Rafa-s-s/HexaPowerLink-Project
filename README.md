@@ -19,7 +19,7 @@ HexaPowerLink integrates multiple renewable energy technologies to create a flex
 
 ## Documentation
 
-For more technical details, diagrams, and reports, visit the [docs folder](./docs).
+For more technical details, diagrams, and reports, visit the [docs folder](./docs/presentation.md).
 
 ## Visuals
 
