@@ -12,4 +12,3 @@ To view the full project presentation, you can download the PowerPoint file from
 
 ---
 
-For more detailed information about the project, check out the other technical documents in the [docs folder](./).
